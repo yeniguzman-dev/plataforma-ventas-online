@@ -57,3 +57,28 @@ En desarrollo activo. El enfoque está en completar la interfaz principal y prep
 * Documentar componentes visuales
 
 ---
+# 🛒 Plataforma Web de Ventas — Frontend
+
+Este es un proyecto en desarrollo enfocado en crear una plataforma de ventas moderna, visual y fácil de usar. Está diseñado para mostrar productos de manera clara y permitir una navegación rápida y responsiva.
+
+---
+
+## 🚀 Tecnologías
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- Git / GitHub
+
+---
+
+## 🎯 Objetivo del Proyecto
+Crear un sitio web profesional que incluya:
+
+- Catálogo de productos organizado  
+- Diseño responsivo para móviles  
+- Secciones limpias y visuales  
+- Base para implementar carrito o backend en el futuro  
+
+---
+
+## 📂 Estructura del Proyecto
